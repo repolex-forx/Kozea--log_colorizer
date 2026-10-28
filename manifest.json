@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "log_colorizer",
+  "versions": [
+    {
+      "commit": "93b7e3489202626fe7f05fe06b5a1ff90af36643",
+      "parsed_at": "2026-10-28T17:10:41.012773+00:00",
+      "filetree": "filetree/93b7e3489202626fe7f05fe06b5a1ff90af36643.nq.gz",
+      "blobs": [
+        "blob/d276d523f7979449e31e0d74aadcbea269577abd.nq.gz",
+        "blob/254b3bf953db1fcb1791bc36226da9a8c5f4f4f4.nq.gz",
+        "blob/9a9c4c2cff08701c5639fe64e03a7907b41421d1.nq.gz",
+        "blob/b01c9215795c40d21d7e9f610b990b733e98a385.nq.gz",
+        "blob/ca49943f47b93cd5a54c07536989ec7b6a197e63.nq.gz",
+        "blob/21f8ff9741e0f314717128ea8a04d3707d602fd3.nq.gz",
+        "blob/3493dafb04088c32598571d5afeb944229345af7.nq.gz",
+        "blob/3154d1ea26044b476b2b4604c16e07f0f2d26be5.nq.gz",
+        "blob/57648e8cc24238c2645cc74bebc9151fd93b56c4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

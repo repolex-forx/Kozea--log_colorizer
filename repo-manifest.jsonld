@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Kozea/log_colorizer/commit/93b7e3489202626fe7f05fe06b5a1ff90af36643",
       "git:hexsha": "93b7e3489202626fe7f05fe06b5a1ff90af36643",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/log_colorizer/commit/e640a47247b9e897439dca19ff7141b494d1e1b5",
